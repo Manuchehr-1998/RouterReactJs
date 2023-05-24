@@ -1,0 +1,14 @@
+.item-text {
+  color: rgba(255, 255, 255, 0.55);
+  padding: 10px;
+  font-size: 22px;
+}
+.item-text:hover {
+  color: white;
+  padding: 10px;
+}
+.strike {
+  text-decoration: line-through;
+  color: white;
+  font-size: 25px;
+}
